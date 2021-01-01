@@ -101,6 +101,8 @@ html, body {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     display: inline-block;
+    height: 200px;
+    width: 200px;
   }
   
   .supporting img {
